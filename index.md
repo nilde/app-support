@@ -1,4 +1,4 @@
-# Privacy Policy for Urbis
+# Privacy Policy for Nil Domene Esteban apps
 
 At All webs developed by Nil Domene Esteban, accessible from https://nilde.github.io/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by All webs developed by Nil Domene Esteban and how we use it.
 
@@ -75,3 +75,6 @@ Under the CCPA, among other rights, California consumers have the right to:
 <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
 <p>All apps developed by Nil Domene Esteban does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+
+## Support
+Contact me at nildomene@gmail.com
